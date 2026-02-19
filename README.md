@@ -15,7 +15,7 @@ A single script to turn any Apple Silicon Mac into a local AI server with Ollama
 
 ```bash
 # Download the script
-curl -O https://raw.githubusercontent.com/YOUR_REPO/mac-setup.sh
+curl -O https://raw.githubusercontent.com/dwythdyn/mac-setup.sh
 
 # Run it
 bash mac-setup.sh
